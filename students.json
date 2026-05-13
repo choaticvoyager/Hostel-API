@@ -1,0 +1,30 @@
+[
+    {
+        "regNo": "2022/ICT/68",
+        "name": "Christopher Nolan",
+        "roomNumber": "G12",
+        "course": "Information Technology",
+        "checkInDate": "2023/08/01"
+    },
+    {
+        "regNo": "2022/ICT/34",
+        "name": "Quentin Tarantino",
+        "roomNumber": "G13",
+        "course": "Information Technology",
+        "checkInDate": "2023/08/01"
+    },
+    {
+        "regNo": "2022/ICT/56",
+        "name": "Christopher Nolan",
+        "roomNumber": "G14",
+        "course": "Information Technology",
+        "checkInDate": "2023/08/01"
+    },
+    {
+        "regNo": "2022/ICT/75",
+        "name": "Christopher Nolan",
+        "roomNumber": "G15",
+        "course": "Information Technology",
+        "checkInDate": "2023/08/01"
+    }    
+]
