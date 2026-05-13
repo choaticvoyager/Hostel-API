@@ -60,5 +60,3 @@ router.delete('/:id', deleteStudent);
 router.patch('/:id',updateStudent);
 
 export default router;
-
-//Checking
